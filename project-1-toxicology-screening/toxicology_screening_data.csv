@@ -1,0 +1,21 @@
+sample_id,case_type,sample_type,substance,drug_class,concentration_ng_ml,screening_cutoff_ng_ml,confirmation_cutoff_ng_ml
+S001,Drug driving,Blood,Cocaine,Stimulant,145,50,100
+S002,Drug driving,Blood,Benzoylecgonine,Cocaine metabolite,320,50,100
+S003,Drug driving,Blood,Diazepam,Benzodiazepine,42,20,30
+S004,Drug driving,Blood,Morphine,Opioid,18,20,50
+S005,Post-mortem,Femoral blood,Morphine,Opioid,180,20,50
+S006,Post-mortem,Femoral blood,Codeine,Opioid,75,20,50
+S007,Workplace testing,Urine,Amphetamine,Stimulant,90,100,150
+S008,Workplace testing,Urine,Amphetamine,Stimulant,185,100,150
+S009,Clinical toxicology,Plasma,Ketamine,Dissociative anaesthetic,65,20,50
+S010,Clinical toxicology,Plasma,Norketamine,Ketamine metabolite,120,20,50
+S011,Drug driving,Blood,THC,Cannabinoid,3.1,1,2
+S012,Drug driving,Blood,THC-COOH,Cannabis metabolite,28,5,15
+S013,Post-mortem,Femoral blood,Amitriptyline,Tricyclic antidepressant,210,50,100
+S014,Post-mortem,Femoral blood,Nortriptyline,Tricyclic antidepressant,95,50,100
+S015,Workplace testing,Urine,Methadone,Opioid,60,50,100
+S016,Workplace testing,Urine,Methadone,Opioid,135,50,100
+S017,Clinical toxicology,Plasma,Paracetamol,Analgesic,14500,5000,10000
+S018,Clinical toxicology,Plasma,Salicylate,Analgesic,22000,5000,10000
+S019,Drug driving,Blood,Alprazolam,Benzodiazepine,8,10,20
+S020,Drug driving,Blood,MDMA,Stimulant,175,50,100

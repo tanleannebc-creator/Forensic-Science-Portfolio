@@ -27,7 +27,7 @@ Data visualisation
 Interpretation of uncertainty
 Forensic case-style reporting
 
-**Project 3:Forensic Evidence Classification**
+**Project 3: Forensic Evidence Classification**
 
 A developing project using sample features to classify evidence types and demonstrate basic statistical and machine learning approaches relevant to forensic interpretation.
 
